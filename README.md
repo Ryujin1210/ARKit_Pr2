@@ -5,6 +5,7 @@
 ARKit과 SceneKit을 이용하여 눈과 얼굴의 인식에 따라 초점을 잡는 구와 각도를 보여주는 박스 App
 
 - 구현 영상 
+
 ![ezgif com-optimize](https://user-images.githubusercontent.com/71920654/230156589-fdc59a43-3b57-48f6-9d10-a42b78f88ce5.gif)
 
 - 문제점
